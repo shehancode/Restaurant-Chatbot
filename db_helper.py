@@ -4,7 +4,7 @@ import mysql.connector
 cnx = mysql.connector.connect(
     host="localhost",  # e.g., "localhost" or "your-db-server.com"
     user="root",  # e.g., "root"
-    password="8133",  # e.g., "password"
+    password="password",  # e.g., "password"
     database="pandeyji_eatery"  # e.g., "orders_db"
 )
 
